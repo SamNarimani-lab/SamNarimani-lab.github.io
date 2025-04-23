@@ -31,5 +31,4 @@ Skills: Python/ Julia/ MATLAB
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samnarimani-lab&show_icons=true&locale=en" alt="samnarimani-lab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samnarimani-lab&" alt="samnarimani-lab" /></p>
 
